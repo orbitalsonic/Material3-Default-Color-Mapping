@@ -15,6 +15,7 @@
 | android:backgroundTint | surface |
 | android:foregroundTint | onSurface |
 
+---
 
 ### EditText
 
@@ -34,6 +35,8 @@
 | app:cursorColor | primary |
 | app:hintTextColor | onSurfaceVariant |
 
+---
+
 ### AutoCompleteTextView / MultiAutoCompleteTextView
 
 | Attribute | Default |
@@ -43,6 +46,7 @@
 | dropDownBackground | surface |
 | popupBackground | surface |
 
+---
 
 ### CheckedTextView
 
@@ -52,6 +56,7 @@
 | checkMarkTint | primary |
 | drawableTint | onSurface |
 
+---
 
 ### TextInputLayout (Material)
 
@@ -85,6 +90,7 @@
 | foregroundTint | onPrimary |
 | drawableTint | onPrimary |
 
+---
 
 ### MaterialButton
 
@@ -95,6 +101,7 @@
 | strokeColor | outline |
 | iconTint | onPrimary |
 
+---
 
 ### ImageButton
 
@@ -104,6 +111,7 @@
 | backgroundTint | surface |
 | foregroundTint | onSurface |
 
+---
 
 ### Chip
 
@@ -117,6 +125,7 @@
 | closeIconTint | onSurfaceVariant |
 | textColor | onSurfaceVariant |
 
+---
 
 ### CheckBox / RadioButton
 
@@ -126,6 +135,7 @@
 | textColor | onSurface |
 | backgroundTint | surface |
 
+---
 
 ### ToggleButton
 
@@ -134,6 +144,7 @@
 | textColor | onSurface |
 | backgroundTint | surfaceVariant |
 
+---
 
 ### Switch / SwitchMaterial
 
@@ -143,6 +154,7 @@
 | trackTint | onSurface (alpha) |
 | textColor | onSurface |
 
+---
 
 ### FloatingActionButton
 
@@ -164,6 +176,7 @@
 | backgroundTint | surface |
 | foregroundTint | onSurface |
 
+---
 
 ### TextClock
 
@@ -171,6 +184,7 @@
 |----------|--------|
 | textColor | onSurface |
 
+---
 
 ### ProgressBar
 
@@ -181,6 +195,7 @@
 | secondaryProgressTint | secondary |
 | indeterminateTint | primary |
 
+---
 
 ### SeekBar
 
@@ -191,6 +206,7 @@
 | progressBackgroundTint | surfaceVariant |
 | secondaryProgressTint | secondary |
 
+---
 
 ### RatingBar
 
@@ -200,6 +216,7 @@
 | secondaryProgressTint | surfaceVariant |
 | progressBackgroundTint | surfaceVariant |
 
+---
 
 ### SearchView
 
@@ -212,6 +229,13 @@
 
 ---
 
+### TextureView
+
+| Attribute | Default |
+|----------|--------|
+| - | No default color roles (content-driven rendering) |
+
+---
 
 ## 🧱 CONTAINERS
 
@@ -222,6 +246,7 @@
 | background | surface |
 | backgroundTint | surface |
 
+---
 
 ### Toolbar
 
@@ -233,6 +258,7 @@
 | navigationIconTint | onSurface |
 | logoTint | onSurface |
 
+---
 
 ### NavigationView
 
@@ -242,6 +268,7 @@
 | itemTextColor | onSurface |
 | itemBackground | secondaryContainer |
 
+---
 
 ### Spinner
 
@@ -250,6 +277,7 @@
 | popupBackground | surface |
 | backgroundTint | surfaceVariant |
 
+---
 
 ### CardView / MaterialCardView
 
@@ -271,6 +299,7 @@
 | background | surface |
 | backgroundTint | surface |
 
+---
 
 ### CalendarView
 
@@ -281,6 +310,7 @@
 | weekNumberColor | onSurfaceVariant |
 | selectedWeekBackgroundColor | primary |
 
+---
 
 ### TimePicker
 
@@ -288,5 +318,3 @@
 |----------|--------|
 | headerTextColor | primary |
 | textColor | onSurface |
-
-
