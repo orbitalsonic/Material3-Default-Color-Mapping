@@ -229,14 +229,6 @@
 
 ---
 
-### TextureView
-
-| Attribute | Default |
-|----------|--------|
-| - | No default color roles (content-driven rendering) |
-
----
-
 ## 🧱 CONTAINERS
 
 ### AppBarLayout
