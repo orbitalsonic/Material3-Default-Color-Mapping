@@ -166,9 +166,13 @@
 | tint | onSecondaryContainer |
 
 > 🔗 More details: https://m2.material.io/components/buttons
+
 > 🔗 More details: https://m2.material.io/components/buttons-floating-action-button
+
 > 🔗 More details: https://m2.material.io/components/chips
+
 > 🔗 More details: https://m2.material.io/components/switches
+
 > 🔗 More details: https://m2.material.io/components/checkboxes
 ---
 
@@ -234,6 +238,7 @@
 | foregroundTint | onSurface |
 
 > 🔗 More details: https://m2.material.io/components/progress-indicators
+
 > 🔗 More details: https://m2.material.io/components/time-pickers
 
 ---
@@ -290,6 +295,7 @@
 | rippleColor | onSurface |
 
 > 🔗 More details: https://m2.material.io/components/app-bars-bottom
+
 > 🔗 More details: https://m2.material.io/components/bottom-navigation
 ---
 
@@ -323,4 +329,5 @@
 | textColor | onSurface |
 
 > 🔗 More details: https://m2.material.io/components/time-pickers
+
 > 🔗 More details: https://m2.material.io/components/dialogs
