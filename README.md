@@ -77,6 +77,7 @@
 | prefixTextColor | onSurface |
 | suffixTextColor | onSurface |
 
+> 🔗 More details: https://m2.material.io/components/text-fields
 ---
 
 ## 🔘 BUTTONS
@@ -164,6 +165,11 @@
 | rippleColor | onSecondary |
 | tint | onSecondaryContainer |
 
+> 🔗 More details: https://m2.material.io/components/buttons
+> 🔗 More details: https://m2.material.io/components/buttons-floating-action-button
+> 🔗 More details: https://m2.material.io/components/chips
+> 🔗 More details: https://m2.material.io/components/switches
+> 🔗 More details: https://m2.material.io/components/checkboxes
 ---
 
 ## 🧩 WIDGETS
@@ -227,6 +233,9 @@
 | backgroundTint | surface |
 | foregroundTint | onSurface |
 
+> 🔗 More details: https://m2.material.io/components/progress-indicators
+> 🔗 More details: https://m2.material.io/components/time-pickers
+
 ---
 
 ## 🧱 CONTAINERS
@@ -280,6 +289,8 @@
 | strokeColor | outline |
 | rippleColor | onSurface |
 
+> 🔗 More details: https://m2.material.io/components/app-bars-bottom
+> 🔗 More details: https://m2.material.io/components/bottom-navigation
 ---
 
 ## 📦 OTHERS
@@ -310,3 +321,6 @@
 |----------|--------|
 | headerTextColor | primary |
 | textColor | onSurface |
+
+> 🔗 More details: https://m2.material.io/components/time-pickers
+> 🔗 More details: https://m2.material.io/components/dialogs
